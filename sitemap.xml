@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://moonotes.cn/article/140ab620.html</loc>
+    
+    <lastmod>2023-12-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://moonotes.cn/manifest.json</loc>
     
     <lastmod>2023-12-04</lastmod>
@@ -41,15 +50,6 @@
     <loc>https://moonotes.cn/article/cc62661b.html</loc>
     
     <lastmod>2023-12-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://moonotes.cn/article/140ab620.html</loc>
-    
-    <lastmod>2023-12-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
